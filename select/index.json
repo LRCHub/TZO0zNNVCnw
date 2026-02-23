@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "援助交際",
+  "base_artist": "CreepHyp",
+  "createdAt": "2026-02-23T15:28:36.308622Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Enjo Kosai [援助交際]",
+      "artist": "Ging Nang BOYZ",
+      "has_synced": true,
+      "path": "select/01_Enjo_Kosai_[援助交際]_Ging_Nang_BOYZ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "援助交際",
+      "artist": "藤川千愛",
+      "has_synced": true,
+      "path": "select/02_援助交際_藤川千愛.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "援助交際",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_援助交際_クリープハイプ.txt"
+    }
+  ]
+}
